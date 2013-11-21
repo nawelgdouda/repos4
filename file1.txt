@@ -1,4 +1,6 @@
 Nolwen Gdouda modified by me
 Hello from file1 19/11/2013
-modified by another developper
+<<<<<<< HEAD
+modified by another developper and modified by another developper second time 
+
 
